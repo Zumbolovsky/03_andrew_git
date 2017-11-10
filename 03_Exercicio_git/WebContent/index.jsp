@@ -52,11 +52,15 @@ div {
 	
 	<input type="submit" name="enviar" value="Enviar">
 	</form>
-	
+	<br>
+	<form action="criatividade.jsp">
+		<input type="submit" name="criatividade" value="Vá para próxima página">
+	</form>
 	
 	<br>
 	
 	<h3>${mensagem}</h3>
+
 	</div>
 </body>
 </html>
